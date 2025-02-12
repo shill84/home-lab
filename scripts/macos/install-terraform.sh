@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# progress bar start
 bar_size=40
 bar_char_done="#"
 bar_char_todo="-"
@@ -27,9 +28,14 @@ function show_progress {
     fi
 }
 
-# tasks_in_total=37
-# for current_task in $(seq $tasks_in_total) 
-#     do
-#     sleep 0.2 #simulate the task running
-#     show_progress $current_task $tasks_in_total
-# done
+# progress bar end
+
+tasks_in_total=3
+
+for current_task in $(seq $tasks_in_total)
+    do
+    brew update
+    brew tap hashicorp/tap
+    brew install hashicorp/tap/terraform
+    show_progress $current_task $tasks_in_total
+done
