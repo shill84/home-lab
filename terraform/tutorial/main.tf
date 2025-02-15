@@ -17,7 +17,7 @@ provider "proxmox" {
 }
 
 
-# TODO: Add network adaptor, VM creates but has no network access
+# TODO: VM created but no ssh keys generated or ssh running, can only access via proxmox console
 resource "proxmox_vm_qemu" "my_vm" {
  name       = "my-vm"
  target_node = "pve1"
@@ -28,6 +28,14 @@ resource "proxmox_vm_qemu" "my_vm" {
    size         = "20G"
    slot         = "scsi0"
  }
+ network {
+   id = 0
+   bridge    = "vmbr0"
+   firewall  = false
+   link_down = false
+   model = "virtio"
+  }
+
  cores      = 1
  memory     = 2048
 }
