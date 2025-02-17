@@ -12,31 +12,38 @@ terraform {
 provider "proxmox" {
     pm_api_url   = "https://192.168.2.68:8006/api2/json"
     pm_api_token_id = "terraform@pam!terraform01"
-    pm_api_token_secret = "[token-from-doppler]"
+    pm_api_token_secret = "Your token"
     pm_tls_insecure = true
 }
 
 
-# TODO: VM created but no ssh keys generated or ssh running, can only access via proxmox console
+# TODO: rebuild template image with ssh key regen service added to it
 resource "proxmox_vm_qemu" "my_vm" {
- name       = "my-vm"
- target_node = "pve1"
- clone      = "ubuntu-template"
+ name       = "my-vm" # Name of the VM
+ target_node = "pve1" # Node where the VM will be created
+ clone      = "ubuntu-template" # Clone's a pre-existing template manually created in Proxmox
+ cores      = 1 # Number of cores
+ memory     = 2048 # Memory in MB
+ agent      = 1 # Enable Qemu Guest Agent
+ agent_timeout = 60 # Timeout for the Qemu Guest Agent
+ # setups the disk configuration
  disk {
-   type         = "disk"
+   type         = "disk" 
    storage      = "local-lvm"
    size         = "20G"
    slot         = "scsi0"
  }
+ # setups the network configuration
  network {
-   id = 0
-   bridge    = "vmbr0"
-   firewall  = false
-   link_down = false
-   model = "virtio"
+   id         = 0
+   bridge     = "vmbr0"
+   firewall   = false
+   link_down  = false
+   model      = "virtio"
   }
-
- cores      = 1
- memory     = 2048
 }
 
+output "proxmox_ip_address_default" {
+  description = "Current IP Default"
+  value = proxmox_vm_qemu.my_vm.*.default_ipv4_address
+}
