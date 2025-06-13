@@ -2,7 +2,7 @@
 The service will run before `ssh.service` starts. It will generate keys using `ssh-keygen`, but first it will remove any ssh keys on the system, generate new ones and then finally disable itself to stop the service from overwriting the generated keys on boot.
 
 > **NOTE**
-> This method is recommended for templates that dod not use `cloud-init`.
+> This method is recommended for templates that do not use `cloud-init`.
 
 ## Setup
 ### Give the file root ownership

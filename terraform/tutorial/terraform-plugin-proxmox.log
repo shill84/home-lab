@@ -1,0 +1,848 @@
+[90mThu, 01 May 2025 17:40:38 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 17:40:38 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 17:40:52 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 17:40:52 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 17:40:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 17:40:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+2025/05/01 17:40:55 [DEBUG] setting computed for "unused_disk" from ComputedKeys
+2025/05/01 17:40:55 [DEBUG] setting computed for "smbios" from ComputedKeys
+[90mThu, 01 May 2025 17:40:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:850[0m[36m >[0m [1mVM creation[0m [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+[90mThu, 01 May 2025 17:40:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:851[0m[36m >[0m VM creation resource data: '' [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/01 17:40:55 [DEBUG][QemuVmCreate] checking for duplicate name: test-terraform0
+2025/05/01 17:40:55 [DEBUG][QemuVmCreate] cloning VM
+[90mThu, 01 May 2025 17:40:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1005[0m[36m >[0m Cloning VM [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+[90mThu, 01 May 2025 17:41:38 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 17:41:38 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 17:41:40 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 17:41:40 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 17:41:42 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 17:41:42 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+2025/05/01 17:41:42 [DEBUG] setting computed for "smbios" from ComputedKeys
+2025/05/01 17:41:42 [DEBUG] setting computed for "unused_disk" from ComputedKeys
+[90mThu, 01 May 2025 17:41:42 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:850[0m[36m >[0m [1mVM creation[0m [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+[90mThu, 01 May 2025 17:41:42 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:851[0m[36m >[0m VM creation resource data: '' [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/01 17:41:42 [DEBUG][QemuVmCreate] checking for duplicate name: test-terraform0
+2025/05/01 17:41:42 [DEBUG][QemuVmCreate] cloning VM
+[90mThu, 01 May 2025 17:41:42 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1005[0m[36m >[0m Cloning VM [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/01 17:42:10 [DEBUG][QemuVmCreate] update VM after clone
+[90mThu, 01 May 2025 17:43:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 17:43:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 17:43:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1385[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/01 17:43:55 [DEBUG] VM status: stopped
+[90mThu, 01 May 2025 17:43:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1454[0m[36m >[0m [READ] Received Config from Proxmox API: {"agent":{"enable":true},"bios":"seabios","boot":"order=scsi0","cicustom":"vendor=local:snippets/vendor.yml","cipassword":"**********","ciuser":"steve","disks":{"ide":{"1":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"scsi":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":false,"emulatessd":false,"format":"raw","id":2,"iothread":false,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","ipconfig":{"0":"ip=dhcp,ip6=dhcp"},"machine":"q35","memory":1024,"name":"test-terraform0","node":"pve1","onboot":false,"pool":"","protection":false,"cores":2,"cpu":"host","kvm":true,"network":{"0":{"bridge":"vmbr0","id":0,"macaddr":"72:77:50:02:24:B5","model":"virtio"}},"numa":false,"ostype":"l26","serial":{"0":{"id":0,"type":"socket"}},"sockets":1,"unused":{"0":{"file":"vm-500-disk-1","slot":0,"storage":"local-lvm"}},"vga":{"":null},"scsihw":"virtio-scsi-single","smbios1":"uuid=b4f564b5-9317-41f9-9550-33832672248a","sshkeys":"ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881\n","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"],"vmid":500} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1520[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1520[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1530[0m[36m >[0m Hostpci Block Processed 'map[]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1537[0m[36m >[0m Usb Block Processed 'map[]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1544[0m[36m >[0m Unused Disk Block Processed 'map[0:map[file:vm-500-disk-1 slot:0 storage:local-lvm]]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1558[0m[36m >[0m Analyzing Network blocks  [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m Network block received 'map[bridge:vmbr0 id:0 macaddr:72:77:50:02:24:B5 model:virtio]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m VM Net Config 'map[0:map[bridge:vmbr0 id:0 macaddr:72:77:50:02:24:B5 model:virtio tag:-1]]' from '[map[bridge:vmbr0 macaddr:72:77:50:02:24:B5 model:virtio tag:-1]]' set as '[map[bridge:vmbr0 firewall:false link_down:false macaddr:72:77:50:02:24:B5 model:virtio mtu:0 queues:0 rate:0 tag:-1]]' type of 'string' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1597[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:59 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 17:43:59 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 17:43:59 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1385[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/01 17:43:59 [DEBUG] VM status: stopped
+[90mThu, 01 May 2025 17:43:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1454[0m[36m >[0m [READ] Received Config from Proxmox API: {"agent":{"enable":true},"bios":"seabios","boot":"order=scsi0","cicustom":"vendor=local:snippets/vendor.yml","cipassword":"**********","ciuser":"steve","disks":{"ide":{"1":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"scsi":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":false,"emulatessd":false,"format":"raw","id":2,"iothread":false,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","ipconfig":{"0":"ip=dhcp,ip6=dhcp"},"machine":"q35","memory":1024,"name":"test-terraform0","node":"pve1","onboot":false,"pool":"","protection":false,"cores":2,"cpu":"host","kvm":true,"network":{"0":{"bridge":"vmbr0","id":0,"macaddr":"72:77:50:02:24:B5","model":"virtio"}},"numa":false,"ostype":"l26","serial":{"0":{"id":0,"type":"socket"}},"sockets":1,"unused":{"0":{"file":"vm-500-disk-1","slot":0,"storage":"local-lvm"}},"vga":{"":null},"scsihw":"virtio-scsi-single","smbios1":"uuid=b4f564b5-9317-41f9-9550-33832672248a","sshkeys":"ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881\n","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"],"vmid":500} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1520[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1520[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1530[0m[36m >[0m Hostpci Block Processed 'map[]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1537[0m[36m >[0m Usb Block Processed 'map[]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1544[0m[36m >[0m Unused Disk Block Processed 'map[0:map[file:vm-500-disk-1 slot:0 storage:local-lvm]]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1558[0m[36m >[0m Analyzing Network blocks  [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m Network block received 'map[bridge:vmbr0 id:0 macaddr:72:77:50:02:24:B5 model:virtio]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m VM Net Config 'map[0:map[bridge:vmbr0 id:0 macaddr:72:77:50:02:24:B5 model:virtio tag:-1]]' from '[map[bridge:vmbr0 macaddr:72:77:50:02:24:B5 model:virtio tag:-1]]' set as '[map[bridge:vmbr0 firewall:false link_down:false macaddr:72:77:50:02:24:B5 model:virtio mtu:0 queues:0 rate:0 tag:-1]]' type of 'string' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:43:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1597[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 17:44:02 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 17:44:02 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+2025/05/01 17:44:04 [DEBUG] setting computed for "smbios" from ComputedKeys
+2025/05/01 17:44:04 [DEBUG] setting computed for "unused_disk" from ComputedKeys
+[90mThu, 01 May 2025 17:44:04 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:850[0m[36m >[0m [1mVM creation[0m [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+[90mThu, 01 May 2025 17:44:04 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:851[0m[36m >[0m VM creation resource data: '' [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/01 17:44:04 [DEBUG][QemuVmCreate] checking for duplicate name: test-terraform0
+2025/05/01 17:44:04 [DEBUG][QemuVmCreate] cloning VM
+[90mThu, 01 May 2025 17:44:04 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1005[0m[36m >[0m Cloning VM [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/01 17:44:32 [DEBUG][QemuVmCreate] update VM after clone
+[90mThu, 01 May 2025 17:44:33 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1069[0m[36m >[0m Set this vm (resource Id) to 'pve1/qemu/500' [36mloggerName=[0mresource_vm_create [36mvmid=[0m500
+2025/05/01 17:44:38 [DEBUG][QemuVmCreate] starting VM
+2025/05/01 17:44:43 [DEBUG][QemuVmCreate] vm creation done!
+[90mThu, 01 May 2025 17:44:43 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1385[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/01 17:44:43 [DEBUG] VM status: running
+2025/05/01 17:44:43 [DEBUG] VM is running, checking the IP
+2025/05/01 17:44:43 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mThu, 01 May 2025 17:44:43 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1860[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/01 17:44:43 [DEBUG][initConnInfo] retrying for at most  20m0s minutes before giving up
+2025/05/01 17:44:43 [DEBUG][initConnInfo] retries will end at 2025-05-01 18:04:43.095633 +0100 BST m=+1240.641342667
+[90mThu, 01 May 2025 17:44:43 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1867[0m[36m >[0m retrying for at most  20m0s minutes before giving up [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mThu, 01 May 2025 17:44:43 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1868[0m[36m >[0m retries will end at 2025-05-01 18:04:43.095633 +0100 BST m=+1240.641342667 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/01 17:44:43 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mThu, 01 May 2025 17:44:43 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1911[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:44:46 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:44:46 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:44:54 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:44:54 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:45:02 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:45:02 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:45:10 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:45:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:45:18 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:45:18 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:45:26 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:45:26 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:45:34 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:45:34 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:45:42 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:45:42 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:45:50 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:45:50 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:45:58 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:45:58 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:46:06 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:46:06 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:46:14 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:46:14 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:46:22 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:46:22 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:46:30 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:46:30 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:46:38 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:46:38 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:46:46 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:46:46 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:46:54 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:46:54 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:47:02 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:47:02 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:47:10 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:47:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:47:18 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:47:18 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:47:27 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:47:27 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:47:35 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:47:35 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:47:43 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:47:43 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:47:51 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:47:51 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:47:59 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:47:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:48:07 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:48:07 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:48:15 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:48:15 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:48:23 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:48:23 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:48:31 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:48:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:48:39 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:48:39 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:48:47 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:48:47 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:48:55 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:48:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:49:03 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:49:03 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:49:11 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:49:11 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:49:19 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:49:19 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:49:27 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:49:27 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:49:35 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:49:35 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:49:43 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:49:43 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:49:52 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:49:52 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:50:00 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:50:00 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:50:08 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:50:08 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:50:16 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:50:16 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:50:24 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:50:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:50:32 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:50:32 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:50:40 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:50:40 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:50:48 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:50:48 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:50:56 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:50:56 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:51:04 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:51:04 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:51:12 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:51:12 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:51:20 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:51:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:51:28 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:51:28 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:51:36 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:51:36 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:51:44 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:51:44 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:51:52 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:51:52 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:52:00 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:52:00 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:52:08 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:52:08 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:52:16 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:52:16 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:52:24 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:52:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:52:32 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:52:32 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:52:40 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:52:40 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:52:48 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:52:48 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:52:56 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:52:56 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:53:04 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:53:04 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:53:12 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:53:12 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:53:20 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:53:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:53:29 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:53:29 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:53:37 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:53:37 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:53:45 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:53:45 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:53:53 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:53:53 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:54:01 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:54:01 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:54:09 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:54:09 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:54:17 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:54:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:54:25 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:54:25 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:54:33 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:54:33 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:54:41 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:54:41 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:54:49 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:54:49 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:54:57 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:54:57 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:55:05 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:55:05 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 17:55:13 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 17:55:13 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+[90mThu, 01 May 2025 21:24:06 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 21:24:06 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 21:27:06 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 21:27:06 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 21:27:10 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:157[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 21:27:10 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:190[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+2025/05/01 21:27:10 [DEBUG] setting computed for "smbios" from ComputedKeys
+2025/05/01 21:27:10 [DEBUG] setting computed for "unused_disk" from ComputedKeys
+[90mThu, 01 May 2025 21:27:10 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:850[0m[36m >[0m [1mVM creation[0m [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+[90mThu, 01 May 2025 21:27:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:851[0m[36m >[0m VM creation resource data: '' [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/01 21:27:10 [DEBUG][QemuVmCreate] checking for duplicate name: test-terraform0
+2025/05/01 21:27:10 [DEBUG][QemuVmCreate] recycling VM vmId: 500
+[90mThu, 01 May 2025 21:27:12 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1069[0m[36m >[0m Set this vm (resource Id) to 'pve1/qemu/500' [36mloggerName=[0mresource_vm_create [36mvmid=[0m500
+2025/05/01 21:27:17 [DEBUG][QemuVmCreate] starting VM
+2025/05/01 21:27:19 [DEBUG][QemuVmCreate] vm creation done!
+[90mThu, 01 May 2025 21:27:19 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1385[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/01 21:27:19 [DEBUG] VM status: running
+2025/05/01 21:27:19 [DEBUG] VM is running, checking the IP
+2025/05/01 21:27:19 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mThu, 01 May 2025 21:27:19 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1860[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/01 21:27:19 [DEBUG][initConnInfo] retrying for at most  20m0s minutes before giving up
+2025/05/01 21:27:19 [DEBUG][initConnInfo] retries will end at 2025-05-01 21:47:19.790113 +0100 BST m=+1209.674159043
+[90mThu, 01 May 2025 21:27:19 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1867[0m[36m >[0m retrying for at most  20m0s minutes before giving up [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mThu, 01 May 2025 21:27:19 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1868[0m[36m >[0m retries will end at 2025-05-01 21:47:19.790113 +0100 BST m=+1209.674159043 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/01 21:27:19 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mThu, 01 May 2025 21:27:19 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1911[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:27:22 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:27:22 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:27:30 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:27:30 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:27:38 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:27:38 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:27:46 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:27:46 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:27:55 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:27:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:28:03 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:28:03 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:28:11 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:28:11 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:28:19 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:28:19 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:28:27 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:28:27 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:28:35 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:28:35 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:28:43 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:28:43 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:28:51 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:28:51 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:28:59 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:28:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:29:07 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:29:07 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:29:15 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:29:15 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:29:23 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:29:23 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:29:31 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:29:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:29:39 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:29:39 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:29:48 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:29:48 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:29:56 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:29:56 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:30:04 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:30:04 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:30:12 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:30:12 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:30:20 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:30:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:30:28 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:30:28 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:30:36 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:30:36 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:30:44 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:30:44 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:30:52 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:30:52 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:31:00 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:31:00 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:31:08 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:31:08 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:31:16 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:31:16 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:31:24 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:31:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:31:32 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:31:32 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:31:40 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:31:40 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:31:48 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:31:48 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:31:56 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:31:56 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:32:04 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:32:04 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:32:12 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:32:12 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:32:20 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:32:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:32:28 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:32:28 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:32:36 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:32:36 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:32:45 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:32:45 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:32:53 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:32:53 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:33:01 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:33:01 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:33:09 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:33:09 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:33:17 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:33:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:33:25 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:33:25 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:33:33 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:33:33 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:33:41 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:33:41 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:33:49 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:33:49 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:33:57 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:33:57 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:34:05 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:34:05 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:34:13 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:34:13 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:34:21 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:34:21 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:34:29 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:34:29 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:34:37 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:34:37 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:34:45 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:34:45 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:34:53 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:34:53 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:35:01 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:35:01 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:35:09 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:35:09 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:35:17 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:35:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:35:26 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:35:26 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:35:34 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:35:34 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:35:42 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:35:42 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:35:50 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:35:50 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:35:58 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:35:58 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:36:06 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:36:06 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:36:14 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:36:14 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:36:22 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:36:22 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:36:30 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:36:30 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:36:38 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:36:38 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:36:46 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:36:46 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:36:54 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:36:54 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:37:02 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:37:02 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:37:10 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:37:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:37:18 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:37:18 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:37:26 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:37:26 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 21:37:34 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mThu, 01 May 2025 21:37:34 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1942[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+[90mThu, 01 May 2025 22:05:28 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 22:05:28 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 22:08:29 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 22:08:29 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 22:08:40 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 22:08:40 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 22:09:34 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 22:09:34 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 22:20:10 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 22:20:10 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 22:20:21 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 22:20:21 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 22:20:25 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 22:20:25 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+2025/05/01 22:20:25 [DEBUG] setting computed for "unused_disk" from ComputedKeys
+2025/05/01 22:20:25 [DEBUG] setting computed for "smbios" from ComputedKeys
+[90mThu, 01 May 2025 22:20:25 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:670[0m[36m >[0m [1mVM creation[0m [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+[90mThu, 01 May 2025 22:20:25 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:671[0m[36m >[0m VM creation resource data: '' [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/01 22:20:25 [DEBUG][QemuVmCreate] checking for duplicate name: test-terraform0
+2025/05/01 22:20:25 [DEBUG][QemuVmCreate] cloning VM
+[90mThu, 01 May 2025 22:20:25 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:796[0m[36m >[0m Cloning VM [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/01 22:20:53 [DEBUG][QemuVmCreate] update VM after clone
+[90mThu, 01 May 2025 22:20:54 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:863[0m[36m >[0m Set this vm (resource Id) to 'pve1/qemu/500' [36mloggerName=[0mresource_vm_create [36mvmid=[0m500
+2025/05/01 22:20:59 [DEBUG][QemuVmCreate] starting VM
+2025/05/01 22:21:03 [DEBUG][QemuVmCreate] vm creation done!
+[90mThu, 01 May 2025 22:21:03 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1143[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/01 22:21:03 [DEBUG] VM status: running
+2025/05/01 22:21:03 [DEBUG] VM is running, checking the IP
+2025/05/01 22:21:03 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mThu, 01 May 2025 22:21:03 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1534[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/01 22:21:03 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mThu, 01 May 2025 22:21:03 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 22:21:03 [DEBUG][initConnInfo] this is the vm configuration:  22
+[90mThu, 01 May 2025 22:21:03 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m this is the vm configuration:  22 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mThu, 01 May 2025 22:21:03 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1195[0m[36m >[0m [READ] Received Config from Proxmox API: {"id":500,"node":"pve1","agent":{"enable":true},"bios":"seabios","boot":" ","cpu":{"cores":2,"numa":false,"sockets":1,"type":"host"},"cloudinit":{"sshkeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881"],"ciupgrade":false,"userpassword":"**********","username":"steve"},"description":"Managed by Terraform.","disks":{"ide":{"2":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"scsi":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":true,"emulatessd":false,"format":"raw","id":2,"iothread":true,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","machine":"q35","memory":{"capacity":1024,"balloon":0},"name":"test-terraform0","networks":{"0":{"bridge":"vmbr0","connected":true,"firewall":false,"mac":"vCQRV6JZ","model":"virtio","tagged_vlans":[]}},"onboot":false,"protection":false,"kvm":true,"ostype":"l26","unused":{"0":{"file":"vm-500-disk-1","slot":0,"storage":"local-lvm"}},"vga":{"":null},"scsihw":"virtio-scsi-pci","smbios1":"uuid=58e33e90-d509-4bf4-97a5-d8f7f4148092","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"]} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 22:21:03 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 22:21:03 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 22:21:03 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1255[0m[36m >[0m Unused Disk Block Processed 'map[0:map[file:vm-500-disk-1 slot:0 storage:local-lvm]]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 22:21:03 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1274[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 22:27:30 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 22:27:30 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 22:27:31 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1143[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/01 22:27:31 [DEBUG] VM status: running
+2025/05/01 22:27:31 [DEBUG] VM is running, checking the IP
+2025/05/01 22:27:31 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mThu, 01 May 2025 22:27:31 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1534[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/01 22:27:31 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mThu, 01 May 2025 22:27:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/01 22:27:31 [DEBUG][initConnInfo] this is the vm configuration:  22
+[90mThu, 01 May 2025 22:27:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m this is the vm configuration:  22 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mThu, 01 May 2025 22:27:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1195[0m[36m >[0m [READ] Received Config from Proxmox API: {"id":500,"node":"pve1","agent":{"enable":true},"bios":"seabios","boot":" ","cpu":{"cores":2,"numa":false,"sockets":1,"type":"host"},"cloudinit":{"sshkeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881"],"ciupgrade":false,"userpassword":"**********","username":"steve"},"description":"Managed by Terraform.","disks":{"ide":{"2":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"scsi":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":true,"emulatessd":false,"format":"raw","id":2,"iothread":true,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","machine":"q35","memory":{"capacity":1024,"balloon":0},"name":"test-terraform0","networks":{"0":{"bridge":"vmbr0","connected":true,"firewall":false,"mac":"vCQRV6JZ","model":"virtio","tagged_vlans":[]}},"onboot":false,"protection":false,"kvm":true,"ostype":"l26","unused":{"0":{"file":"vm-500-disk-1","slot":0,"storage":"local-lvm"}},"vga":{"":null},"scsihw":"virtio-scsi-pci","smbios1":"uuid=58e33e90-d509-4bf4-97a5-d8f7f4148092","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"]} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 22:27:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 22:27:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 22:27:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1255[0m[36m >[0m Unused Disk Block Processed 'map[0:map[file:vm-500-disk-1 slot:0 storage:local-lvm]]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 22:27:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1274[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mThu, 01 May 2025 22:27:31 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 22:27:31 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mThu, 01 May 2025 22:27:34 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mThu, 01 May 2025 22:27:34 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 07:30:46 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 07:30:46 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 07:30:52 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 07:30:52 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 07:30:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 07:30:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+2025/05/02 07:30:55 [DEBUG] setting computed for "smbios" from ComputedKeys
+2025/05/02 07:30:55 [DEBUG] setting computed for "unused_disk" from ComputedKeys
+[90mFri, 02 May 2025 07:30:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:670[0m[36m >[0m [1mVM creation[0m [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+[90mFri, 02 May 2025 07:30:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:671[0m[36m >[0m VM creation resource data: '' [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/02 07:30:55 [DEBUG][QemuVmCreate] checking for duplicate name: test-terraform0
+2025/05/02 07:30:55 [DEBUG][QemuVmCreate] cloning VM
+[90mFri, 02 May 2025 07:30:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:796[0m[36m >[0m Cloning VM [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/02 07:31:23 [DEBUG][QemuVmCreate] update VM after clone
+[90mFri, 02 May 2025 07:31:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:863[0m[36m >[0m Set this vm (resource Id) to 'pve1/qemu/500' [36mloggerName=[0mresource_vm_create [36mvmid=[0m500
+2025/05/02 07:31:29 [DEBUG][QemuVmCreate] starting VM
+2025/05/02 07:31:33 [DEBUG][QemuVmCreate] vm creation done!
+[90mFri, 02 May 2025 07:31:33 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1143[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/02 07:31:33 [DEBUG] VM status: running
+2025/05/02 07:31:33 [DEBUG] VM is running, checking the IP
+2025/05/02 07:31:33 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mFri, 02 May 2025 07:31:33 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1534[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/02 07:31:33 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mFri, 02 May 2025 07:31:33 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:31:33 [DEBUG][initConnInfo] retrying for at most  1m30s before giving up
+2025/05/02 07:31:33 [DEBUG][initConnInfo] retries will end at 2025-05-02 07:33:03.843176 +0100 BST m=+128.495378626
+[90mFri, 02 May 2025 07:31:33 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1636[0m[36m >[0m retrying for at most  1m30s before giving up [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+[90mFri, 02 May 2025 07:31:33 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1637[0m[36m >[0m retries will end at 2025-05-02 07:33:03.843176 +0100 BST m=+128.495378626 [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:31:36 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:31:36 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:31:44 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:31:44 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:31:53 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:31:53 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:32:01 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:32:01 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:32:09 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:32:09 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:32:17 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:32:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:32:25 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:32:25 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:32:33 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:32:33 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:32:41 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:32:41 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:32:49 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:32:49 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:32:57 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:32:57 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:33:05 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:33:05 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:33:10 [DEBUG][initConnInfo] this is the vm configuration:  22
+[90mFri, 02 May 2025 07:33:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m this is the vm configuration:  22 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mFri, 02 May 2025 07:33:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1195[0m[36m >[0m [READ] Received Config from Proxmox API: {"id":500,"node":"pve1","agent":{"enable":true},"bios":"seabios","boot":" ","cpu":{"cores":2,"numa":false,"sockets":1,"type":"host"},"cloudinit":{"ipconfig":{"0":{"ip4":{"dhcp":true},"ip6":{"dhcp":true}}},"sshkeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881"],"ciupgrade":false,"userpassword":"**********","username":"steve"},"description":"Managed by Terraform.","disks":{"ide":{"2":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"scsi":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":true,"emulatessd":false,"format":"raw","id":2,"iothread":true,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","machine":"q35","memory":{"capacity":1024,"balloon":0},"name":"test-terraform0","networks":{"0":{"bridge":"vmbr0","connected":true,"firewall":false,"mac":"vCQRVFyW","model":"virtio","tagged_vlans":[]}},"onboot":false,"protection":false,"kvm":true,"ostype":"l26","unused":{"0":{"file":"vm-500-disk-1","slot":0,"storage":"local-lvm"}},"vga":{"":null},"scsihw":"virtio-scsi-pci","smbios1":"uuid=9798c7bf-4f65-40bf-8c29-4b539865db3c","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"]} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:33:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:33:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:33:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1255[0m[36m >[0m Unused Disk Block Processed 'map[0:map[file:vm-500-disk-1 slot:0 storage:local-lvm]]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:33:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1274[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:35:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 07:35:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 07:35:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1143[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/02 07:35:55 [DEBUG] VM status: running
+2025/05/02 07:35:55 [DEBUG] VM is running, checking the IP
+2025/05/02 07:35:55 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mFri, 02 May 2025 07:35:55 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1534[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/02 07:35:55 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mFri, 02 May 2025 07:35:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:35:55 [DEBUG][initConnInfo] retrying for at most  1m30s before giving up
+2025/05/02 07:35:55 [DEBUG][initConnInfo] retries will end at 2025-05-02 07:37:25.323827 +0100 BST m=+90.109218667
+[90mFri, 02 May 2025 07:35:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1636[0m[36m >[0m retrying for at most  1m30s before giving up [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+[90mFri, 02 May 2025 07:35:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1637[0m[36m >[0m retries will end at 2025-05-02 07:37:25.323827 +0100 BST m=+90.109218667 [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:35:58 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:35:58 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:36:06 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:36:06 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:36:14 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:36:14 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:36:22 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:36:22 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:36:30 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:36:30 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:36:38 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:36:38 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:36:46 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:36:46 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:36:54 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:36:54 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:37:02 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:37:02 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:37:10 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:37:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:37:18 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:37:18 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:37:26 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:37:26 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:37:31 [DEBUG][initConnInfo] this is the vm configuration:  22
+[90mFri, 02 May 2025 07:37:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m this is the vm configuration:  22 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mFri, 02 May 2025 07:37:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1195[0m[36m >[0m [READ] Received Config from Proxmox API: {"id":500,"node":"pve1","agent":{"enable":true},"bios":"seabios","boot":" ","cpu":{"cores":2,"numa":false,"sockets":1,"type":"host"},"cloudinit":{"ipconfig":{"0":{"ip4":{"dhcp":true},"ip6":{"dhcp":true}}},"sshkeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881"],"ciupgrade":false,"userpassword":"**********","username":"steve"},"description":"Managed by Terraform.","disks":{"ide":{"2":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"scsi":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":true,"emulatessd":false,"format":"raw","id":2,"iothread":true,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","machine":"q35","memory":{"capacity":1024,"balloon":0},"name":"test-terraform0","networks":{"0":{"bridge":"vmbr0","connected":true,"firewall":false,"mac":"vCQRVFyW","model":"virtio","tagged_vlans":[]}},"onboot":false,"protection":false,"kvm":true,"ostype":"l26","unused":{"0":{"file":"vm-500-disk-1","slot":0,"storage":"local-lvm"}},"vga":{"":null},"scsihw":"virtio-scsi-pci","smbios1":"uuid=9798c7bf-4f65-40bf-8c29-4b539865db3c","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"]} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:37:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:37:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:37:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1255[0m[36m >[0m Unused Disk Block Processed 'map[0:map[file:vm-500-disk-1 slot:0 storage:local-lvm]]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:37:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1274[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:37:31 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 07:37:31 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 07:39:32 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 07:39:32 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 07:40:45 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 07:40:45 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 07:40:47 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 07:40:47 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 07:40:49 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 07:40:49 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+2025/05/02 07:40:49 [DEBUG] setting computed for "unused_disk" from ComputedKeys
+2025/05/02 07:40:49 [DEBUG] setting computed for "smbios" from ComputedKeys
+[90mFri, 02 May 2025 07:40:49 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:670[0m[36m >[0m [1mVM creation[0m [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+[90mFri, 02 May 2025 07:40:49 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:671[0m[36m >[0m VM creation resource data: '' [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/02 07:40:49 [DEBUG][QemuVmCreate] checking for duplicate name: test-terraform0
+2025/05/02 07:40:49 [DEBUG][QemuVmCreate] cloning VM
+[90mFri, 02 May 2025 07:40:49 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:796[0m[36m >[0m Cloning VM [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/02 07:41:17 [DEBUG][QemuVmCreate] update VM after clone
+[90mFri, 02 May 2025 07:41:18 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:863[0m[36m >[0m Set this vm (resource Id) to 'pve1/qemu/500' [36mloggerName=[0mresource_vm_create [36mvmid=[0m500
+2025/05/02 07:41:23 [DEBUG][QemuVmCreate] starting VM
+2025/05/02 07:41:25 [DEBUG][QemuVmCreate] vm creation done!
+[90mFri, 02 May 2025 07:41:25 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1143[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/02 07:41:25 [DEBUG] VM status: running
+2025/05/02 07:41:25 [DEBUG] VM is running, checking the IP
+2025/05/02 07:41:25 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mFri, 02 May 2025 07:41:25 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1534[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/02 07:41:25 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mFri, 02 May 2025 07:41:25 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:41:25 [DEBUG][initConnInfo] retrying for at most  1m30s before giving up
+2025/05/02 07:41:25 [DEBUG][initConnInfo] retries will end at 2025-05-02 07:42:55.952314 +0100 BST m=+126.445910085
+[90mFri, 02 May 2025 07:41:25 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1636[0m[36m >[0m retrying for at most  1m30s before giving up [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+[90mFri, 02 May 2025 07:41:25 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1637[0m[36m >[0m retries will end at 2025-05-02 07:42:55.952314 +0100 BST m=+126.445910085 [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:41:28 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:41:28 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:41:37 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:41:37 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:41:45 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:41:45 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:41:53 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:41:53 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:42:01 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:42:01 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:42:09 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:42:09 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:42:17 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:42:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:42:25 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:42:25 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:42:33 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:42:33 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:42:41 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:42:41 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:42:49 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:42:49 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:42:57 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:42:57 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:43:02 [DEBUG][initConnInfo] this is the vm configuration:  22
+[90mFri, 02 May 2025 07:43:02 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m this is the vm configuration:  22 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mFri, 02 May 2025 07:43:02 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1195[0m[36m >[0m [READ] Received Config from Proxmox API: {"id":500,"node":"pve1","agent":{"enable":true},"bios":"seabios","boot":" ","cpu":{"cores":2,"numa":false,"sockets":1,"type":"host"},"cloudinit":{"ipconfig":{"0":{"ip4":{"dhcp":true},"ip6":{"dhcp":true}}},"sshkeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881"],"ciupgrade":false,"userpassword":"**********","username":"steve"},"description":"Managed by Terraform.","disks":{"ide":{"2":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"scsi":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":true,"emulatessd":false,"format":"raw","id":2,"iothread":true,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","machine":"q35","memory":{"capacity":1024,"balloon":0},"name":"test-terraform0","networks":{"0":{"bridge":"vmbr0","connected":true,"firewall":false,"mac":"vCQRv3di","model":"virtio","tagged_vlans":[]}},"onboot":false,"protection":false,"kvm":true,"ostype":"l26","unused":{"0":{"file":"vm-500-disk-1","slot":0,"storage":"local-lvm"}},"vga":{"":null},"scsihw":"virtio-scsi-pci","serials":{"0":{"socket":true}},"smbios1":"uuid=a1e1fe47-9d54-49fe-90c6-fc5ead7582ad","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"]} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:43:02 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:43:02 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:43:02 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1255[0m[36m >[0m Unused Disk Block Processed 'map[0:map[file:vm-500-disk-1 slot:0 storage:local-lvm]]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:43:02 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1274[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 07:58:43 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 07:58:43 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 07:58:43 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1143[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/02 07:58:43 [DEBUG] VM status: running
+2025/05/02 07:58:43 [DEBUG] VM is running, checking the IP
+2025/05/02 07:58:43 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mFri, 02 May 2025 07:58:43 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1534[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/02 07:58:43 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mFri, 02 May 2025 07:58:43 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:58:43 [DEBUG][initConnInfo] retrying for at most  1m30s before giving up
+2025/05/02 07:58:43 [DEBUG][initConnInfo] retries will end at 2025-05-02 08:00:13.607328 +0100 BST m=+90.109189668
+[90mFri, 02 May 2025 07:58:43 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1636[0m[36m >[0m retrying for at most  1m30s before giving up [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+[90mFri, 02 May 2025 07:58:43 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1637[0m[36m >[0m retries will end at 2025-05-02 08:00:13.607328 +0100 BST m=+90.109189668 [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:58:46 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:58:46 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:58:54 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:58:54 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:59:02 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:59:02 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:59:10 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:59:10 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:59:18 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:59:18 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:59:26 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:59:26 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:59:34 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:59:34 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:59:42 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:59:42 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:59:50 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:59:50 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 07:59:59 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 07:59:59 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:00:07 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:00:07 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:00:15 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:00:15 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:00:20 [DEBUG][initConnInfo] this is the vm configuration:  22
+[90mFri, 02 May 2025 08:00:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m this is the vm configuration:  22 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mFri, 02 May 2025 08:00:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1195[0m[36m >[0m [READ] Received Config from Proxmox API: {"id":500,"node":"pve1","agent":{"enable":true},"bios":"seabios","boot":" ","cpu":{"cores":2,"numa":false,"sockets":1,"type":"host"},"cloudinit":{"ipconfig":{"0":{"ip4":{"dhcp":true},"ip6":{"dhcp":true}}},"sshkeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881"],"ciupgrade":false,"userpassword":"**********","username":"steve"},"description":"Managed by Terraform.","disks":{"ide":{"2":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"scsi":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":true,"emulatessd":false,"format":"raw","id":2,"iothread":true,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","machine":"q35","memory":{"capacity":1024,"balloon":0},"name":"test-terraform0","networks":{"0":{"bridge":"vmbr0","connected":true,"firewall":false,"mac":"vCQRv3di","model":"virtio","tagged_vlans":[]}},"onboot":false,"protection":false,"kvm":true,"ostype":"l26","unused":{"0":{"file":"vm-500-disk-1","slot":0,"storage":"local-lvm"}},"vga":{"":null},"scsihw":"virtio-scsi-pci","serials":{"0":{"socket":true}},"smbios1":"uuid=a1e1fe47-9d54-49fe-90c6-fc5ead7582ad","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"]} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 08:00:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 08:00:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 08:00:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1255[0m[36m >[0m Unused Disk Block Processed 'map[0:map[file:vm-500-disk-1 slot:0 storage:local-lvm]]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 08:00:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1274[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 08:00:20 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 08:00:20 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 08:00:26 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 08:00:26 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 08:03:19 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 08:03:19 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 08:03:23 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 08:03:23 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 08:03:25 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 08:03:25 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+2025/05/02 08:03:26 [DEBUG] setting computed for "unused_disk" from ComputedKeys
+2025/05/02 08:03:26 [DEBUG] setting computed for "smbios" from ComputedKeys
+[90mFri, 02 May 2025 08:03:26 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:670[0m[36m >[0m [1mVM creation[0m [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+[90mFri, 02 May 2025 08:03:26 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:671[0m[36m >[0m VM creation resource data: '' [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/02 08:03:26 [DEBUG][QemuVmCreate] checking for duplicate name: test-terraform0
+2025/05/02 08:03:26 [DEBUG][QemuVmCreate] cloning VM
+[90mFri, 02 May 2025 08:03:26 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:796[0m[36m >[0m Cloning VM [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/02 08:03:54 [DEBUG][QemuVmCreate] update VM after clone
+[90mFri, 02 May 2025 08:03:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:863[0m[36m >[0m Set this vm (resource Id) to 'pve1/qemu/500' [36mloggerName=[0mresource_vm_create [36mvmid=[0m500
+2025/05/02 08:04:00 [DEBUG][QemuVmCreate] starting VM
+2025/05/02 08:04:04 [DEBUG][QemuVmCreate] vm creation done!
+[90mFri, 02 May 2025 08:04:04 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1143[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/02 08:04:04 [DEBUG] VM status: running
+2025/05/02 08:04:04 [DEBUG] VM is running, checking the IP
+2025/05/02 08:04:04 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mFri, 02 May 2025 08:04:04 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1534[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/02 08:04:04 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mFri, 02 May 2025 08:04:04 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:04:04 [DEBUG][initConnInfo] retrying for at most  1m30s before giving up
+2025/05/02 08:04:04 [DEBUG][initConnInfo] retries will end at 2025-05-02 08:05:34.267342 +0100 BST m=+128.359538335
+[90mFri, 02 May 2025 08:04:04 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1636[0m[36m >[0m retrying for at most  1m30s before giving up [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+[90mFri, 02 May 2025 08:04:04 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1637[0m[36m >[0m retries will end at 2025-05-02 08:05:34.267342 +0100 BST m=+128.359538335 [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:04:07 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:04:07 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:04:15 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:04:15 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:04:23 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:04:23 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:04:31 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:04:31 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:04:39 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:04:39 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:04:47 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:04:47 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:04:55 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:04:55 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:05:03 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:05:03 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:05:11 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:05:11 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:05:19 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:05:19 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:05:27 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:05:27 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:05:35 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 08:05:35 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 08:05:40 [DEBUG][initConnInfo] this is the vm configuration:  22
+[90mFri, 02 May 2025 08:05:40 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m this is the vm configuration:  22 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mFri, 02 May 2025 08:05:40 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1195[0m[36m >[0m [READ] Received Config from Proxmox API: {"id":500,"node":"pve1","agent":{"enable":true},"bios":"ovmf","boot":"order=virtio0","cpu":{"cores":2,"numa":false,"sockets":1,"type":"host"},"cloudinit":{"ipconfig":{"0":{"ip4":{"dhcp":true},"ip6":{"dhcp":true}}},"sshkeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881"],"ciupgrade":false,"userpassword":"**********","username":"steve"},"description":"Managed by Terraform.","disks":{"scsi":{"0":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"virtio":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":true,"format":"raw","id":1,"iothread":false,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","machine":"q35","memory":{"capacity":1024,"balloon":0},"name":"test-terraform0","networks":{"0":{"bridge":"vmbr0","connected":true,"firewall":false,"mac":"vCQRSVhJ","model":"virtio","tagged_vlans":[]}},"onboot":false,"protection":false,"kvm":true,"ostype":"l26","vga":{"":null},"scsihw":"virtio-scsi-pci","serials":{"0":{"socket":true}},"smbios1":"uuid=76ba4fd6-ed78-40f6-98b9-f9f0ad7927fc","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"]} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 08:05:40 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 08:05:40 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 08:05:40 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1255[0m[36m >[0m Unused Disk Block Processed 'map[]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 08:05:40 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1274[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 09:08:17 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 09:08:17 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 09:08:17 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1143[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/02 09:08:17 [DEBUG] VM status: running
+2025/05/02 09:08:17 [DEBUG] VM is running, checking the IP
+2025/05/02 09:08:17 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mFri, 02 May 2025 09:08:17 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1534[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/02 09:08:17 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mFri, 02 May 2025 09:08:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 09:08:17 [DEBUG][initConnInfo] retrying for at most  1m30s before giving up
+2025/05/02 09:08:17 [DEBUG][initConnInfo] retries will end at 2025-05-02 09:09:47.508341 +0100 BST m=+90.110582418
+[90mFri, 02 May 2025 09:08:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1636[0m[36m >[0m retrying for at most  1m30s before giving up [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+[90mFri, 02 May 2025 09:08:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1637[0m[36m >[0m retries will end at 2025-05-02 09:09:47.508341 +0100 BST m=+90.110582418 [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 09:08:17 [INFO][getPrimaryIP] QEMU Agent interfaces found: [{00:00:00:00:00:00 [127.0.0.1 ::1] lo <nil>} {bc:24:11:49:58:49 [192.168.2.235 fe80::be24:11ff:fe49:5849] eth0 <nil>}]
+[90mFri, 02 May 2025 09:08:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1650[0m[36m >[0m QEMU Agent interfaces found: [{00:00:00:00:00:00 [127.0.0.1 ::1] lo <nil>} {bc:24:11:49:58:49 [192.168.2.235 fe80::be24:11ff:fe49:5849] eth0 <nil>}] [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 09:08:17 [DEBUG][initConnInfo] this is the vm configuration: 192.168.2.235 22
+[90mFri, 02 May 2025 09:08:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m this is the vm configuration: 192.168.2.235 22 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mFri, 02 May 2025 09:08:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1195[0m[36m >[0m [READ] Received Config from Proxmox API: {"id":500,"node":"pve1","agent":{"enable":true},"bios":"ovmf","boot":"order=virtio0","cpu":{"cores":2,"numa":false,"sockets":1,"type":"host"},"cloudinit":{"ipconfig":{"0":{"ip4":{"dhcp":true},"ip6":{"dhcp":true}}},"sshkeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881"],"ciupgrade":false,"userpassword":"**********","username":"steve"},"description":"Managed by Terraform.","disks":{"scsi":{"0":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"virtio":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":true,"format":"raw","id":1,"iothread":false,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","machine":"q35","memory":{"capacity":1024,"balloon":0},"name":"test-terraform0","networks":{"0":{"bridge":"vmbr0","connected":true,"firewall":false,"mac":"vCQRSVhJ","model":"virtio","tagged_vlans":[]}},"onboot":false,"protection":false,"kvm":true,"ostype":"l26","vga":{"":null},"scsihw":"virtio-scsi-pci","serials":{"0":{"socket":true}},"smbios1":"uuid=76ba4fd6-ed78-40f6-98b9-f9f0ad7927fc","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"]} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 09:08:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 09:08:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 09:08:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1255[0m[36m >[0m Unused Disk Block Processed 'map[]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 09:08:17 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1274[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 09:08:17 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 09:08:17 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 09:08:19 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 09:08:19 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 09:46:37 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 09:46:37 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 09:46:51 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 09:46:51 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 02 May 2025 09:46:53 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 02 May 2025 09:46:53 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+2025/05/02 09:46:53 [DEBUG] setting computed for "unused_disk" from ComputedKeys
+2025/05/02 09:46:53 [DEBUG] setting computed for "smbios" from ComputedKeys
+[90mFri, 02 May 2025 09:46:53 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:670[0m[36m >[0m [1mVM creation[0m [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+[90mFri, 02 May 2025 09:46:53 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:671[0m[36m >[0m VM creation resource data: '' [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/02 09:46:53 [DEBUG][QemuVmCreate] checking for duplicate name: test-terraform0
+2025/05/02 09:46:53 [DEBUG][QemuVmCreate] cloning VM
+[90mFri, 02 May 2025 09:46:53 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:796[0m[36m >[0m Cloning VM [36mloggerName=[0mresource_vm_create [36mvmid=[0m
+2025/05/02 09:47:21 [DEBUG][QemuVmCreate] update VM after clone
+[90mFri, 02 May 2025 09:47:22 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:863[0m[36m >[0m Set this vm (resource Id) to 'pve1/qemu/500' [36mloggerName=[0mresource_vm_create [36mvmid=[0m500
+2025/05/02 09:47:27 [DEBUG][QemuVmCreate] starting VM
+2025/05/02 09:47:29 [DEBUG][QemuVmCreate] vm creation done!
+[90mFri, 02 May 2025 09:47:29 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1143[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/05/02 09:47:29 [DEBUG] VM status: running
+2025/05/02 09:47:29 [DEBUG] VM is running, checking the IP
+2025/05/02 09:47:29 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mFri, 02 May 2025 09:47:29 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1534[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/05/02 09:47:29 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mFri, 02 May 2025 09:47:29 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 09:47:29 [DEBUG][initConnInfo] retrying for at most  1m30s before giving up
+2025/05/02 09:47:29 [DEBUG][initConnInfo] retries will end at 2025-05-02 09:48:59.412767 +0100 BST m=+126.317844292
+[90mFri, 02 May 2025 09:47:29 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1636[0m[36m >[0m retrying for at most  1m30s before giving up [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+[90mFri, 02 May 2025 09:47:29 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1637[0m[36m >[0m retries will end at 2025-05-02 09:48:59.412767 +0100 BST m=+126.317844292 [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 09:47:32 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 09:47:32 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 09:47:40 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 09:47:40 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 09:47:48 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 09:47:48 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 09:47:56 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 09:47:56 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 09:48:12 [INFO][getPrimaryIP] check ip result error 500 QEMU guest agent is not running
+[90mFri, 02 May 2025 09:48:12 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1646[0m[36m >[0m check ip result error 500 QEMU guest agent is not running [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 09:48:20 [INFO][getPrimaryIP] QEMU Agent interfaces found: [{00:00:00:00:00:00 [127.0.0.1 ::1] lo <nil>} {bc:24:11:ca:49:57 [192.168.2.9 fe80::be24:11ff:feca:4957] eth0 <nil>}]
+[90mFri, 02 May 2025 09:48:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1650[0m[36m >[0m QEMU Agent interfaces found: [{00:00:00:00:00:00 [127.0.0.1 ::1] lo <nil>} {bc:24:11:ca:49:57 [192.168.2.9 fe80::be24:11ff:feca:4957] eth0 <nil>}] [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/05/02 09:48:20 [DEBUG][initConnInfo] this is the vm configuration: 192.168.2.9 22
+[90mFri, 02 May 2025 09:48:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m this is the vm configuration: 192.168.2.9 22 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mFri, 02 May 2025 09:48:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1195[0m[36m >[0m [READ] Received Config from Proxmox API: {"id":500,"node":"pve1","agent":{"enable":true},"bios":"ovmf","boot":"order=virtio0","cpu":{"cores":2,"numa":false,"sockets":1,"type":"host"},"cloudinit":{"cicustom":{"vendor":{"path":"snippets/vendor.yaml","storage":"local"}},"ipconfig":{"0":{"ip4":{"dhcp":true},"ip6":{"dhcp":true}}},"sshkeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881"],"ciupgrade":false,"userpassword":"**********","username":"steve"},"description":"Managed by Terraform.","disks":{"scsi":{"0":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"virtio":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":true,"format":"raw","id":1,"iothread":false,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","machine":"q35","memory":{"capacity":1024,"balloon":0},"name":"test-terraform0","networks":{"0":{"bridge":"vmbr0","connected":true,"firewall":false,"mac":"vCQRyklX","model":"virtio","tagged_vlans":[]}},"onboot":false,"protection":false,"kvm":true,"ostype":"l26","vga":{"":null},"scsihw":"virtio-scsi-pci","serials":{"0":{"socket":true}},"smbios1":"uuid=4274af52-ac4c-4adf-b9ae-f2bb8cd8e2db","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"]} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 09:48:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 09:48:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 09:48:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1255[0m[36m >[0m Unused Disk Block Processed 'map[]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 02 May 2025 09:48:20 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1274[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1143[0m[36m >[0m [1mReading configuration for vmid[0m [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+2025/06/13 13:14:24 [DEBUG] VM status: running
+2025/06/13 13:14:24 [DEBUG] VM is running, checking the IP
+2025/06/13 13:14:24 [INFO][initConnInfo] trying to get vm ip address for provisioner
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1534[0m[36m >[0m [1mtrying to get vm ip address for provisioner[0m [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+2025/06/13 13:14:24 [INFO][getPrimaryIP] vm has a cloud-init configuration
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1595[0m[36m >[0m  vm has a cloud-init configuration [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/06/13 13:14:24 [DEBUG][initConnInfo] retrying for at most  1m30s before giving up
+2025/06/13 13:14:24 [DEBUG][initConnInfo] retries will end at 2025-06-13 13:15:54.186417 +0100 BST m=+90.117033251
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1636[0m[36m >[0m retrying for at most  1m30s before giving up [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1637[0m[36m >[0m retries will end at 2025-06-13 13:15:54.186417 +0100 BST m=+90.117033251 [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/06/13 13:14:24 [INFO][getPrimaryIP] QEMU Agent interfaces found: [{00:00:00:00:00:00 [127.0.0.1 ::1] lo <nil>} {bc:24:11:ca:49:57 [192.168.2.9 fe80::be24:11ff:feca:4957] eth0 <nil>}]
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1650[0m[36m >[0m QEMU Agent interfaces found: [{00:00:00:00:00:00 [127.0.0.1 ::1] lo <nil>} {bc:24:11:ca:49:57 [192.168.2.9 fe80::be24:11ff:feca:4957] eth0 <nil>}] [36mloggerName=[0mgetPrimaryIP [36mvmid=[0m500
+2025/06/13 13:14:24 [DEBUG][initConnInfo] this is the vm configuration: 192.168.2.9 22
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1560[0m[36m >[0m this is the vm configuration: 192.168.2.9 22 [36mloggerName=[0minitConnInfo [36mvmid=[0m500
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1195[0m[36m >[0m [READ] Received Config from Proxmox API: {"id":500,"node":"pve1","agent":{"enable":true},"bios":"ovmf","boot":"order=virtio0","cpu":{"cores":2,"numa":false,"sockets":1,"type":"host"},"cloudinit":{"cicustom":{"vendor":{"path":"snippets/vendor.yaml","storage":"local"}},"ipconfig":{"0":{"ip4":{"dhcp":true},"ip6":{"dhcp":true}}},"sshkeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPk2YG63BEtBNUCVxv5QXHfTsocTCyurBPD8n3hjnhS7 HillSt01@stepstone.com@UK-POR-MOB-3881"],"ciupgrade":false,"userpassword":"**********","username":"steve"},"description":"Managed by Terraform.","disks":{"scsi":{"0":{"cloudinit":{"format":"raw","storage":"local-lvm"}}},"virtio":{"0":{"disk":{"backup":true,"bandwidth":{"mbps":{"read":{},"write":{}},"iops":{"read":{},"write":{}}},"discard":true,"format":"raw","id":1,"iothread":false,"linked":null,"readonly":false,"replicate":false,"size":33554432,"storage":"local-lvm","wwn":""}}}},"efidisk":{"file":"vm-500-disk-0","pre-enrolled-keys":0,"size":"4M","storage":"local-lvm","volume":"local-lvm:vm-500-disk-0"},"hotplug":"network,disk,usb","machine":"q35","memory":{"capacity":1024,"balloon":0},"name":"test-terraform0","networks":{"0":{"bridge":"vmbr0","connected":true,"firewall":false,"mac":"vCQRyklX","model":"virtio","tagged_vlans":[]}},"onboot":false,"protection":false,"kvm":true,"ostype":"l26","vga":{"":null},"scsihw":"virtio-scsi-pci","serials":{"0":{"socket":true}},"smbios1":"uuid=4274af52-ac4c-4adf-b9ae-f2bb8cd8e2db","tablet":true,"tags":["24.04","cloudinit","ubuntu-template"]} [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'force_create' is set to false [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1245[0m[36m >[0m key 'define_connection_info' is set to true [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1255[0m[36m >[0m Unused Disk Block Processed 'map[]' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m DBG [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/resource_vm_qemu.go:1274[0m[36m >[0m Finished VM read resulting in data: '' [36mloggerName=[0mresource_vm_read [36mvmid=[0m500
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 13 Jun 2025 13:14:24 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
+[90mFri, 13 Jun 2025 13:14:29 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:156[0m[36m >[0m [1mEnabling the capture of log-library logs as ithe _capturelog flag was detected[0m
+[90mFri, 13 Jun 2025 13:14:29 +0100[0m [32mINF[0m [1mgithub.com/Telmate/terraform-provider-proxmox/v2/proxmox/util.go:189[0m[36m >[0m [1mLogging Started. Root Logger Set to level debug[0m
